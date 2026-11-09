@@ -1,0 +1,16 @@
+$ php tests/test_validaciones.php
+[OK] Producto válido
+[OK] Nombre menor a 3 caracteres
+[OK] Precio inferior a 1000
+[OK] Stock negativo
+[OK] Stock decimal
+[OK] Categoría desconocida
+[OK] Marca vacía
+[OK] Precio con demasiados decimales
+[OK] Validación nombre de categoría
+[OK] ID numérico positivo
+[OK] Escapado HTML
+[OK] Importe formateado
+[OK] Zona horaria Bogotá
+
+Resultado: 13/13 pruebas superadas.

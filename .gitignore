@@ -1,0 +1,17 @@
+# PROYECTO: IberoTech - Actividad 6 - Proyecto final
+# INSTITUCIÓN: BIT - Corporación Universitaria Iberoamericana
+# ESTUDIANTE: Edilberto Elias Contreras Sierra
+# DOCENTE: Jairo Niño
+# ARCHIVO: .gitignore
+# DESCRIPCIÓN: Excluye datos privados y reportes Word, mantiene Bootstrap local bajo frontend/vendor/.
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+/vendor/
+*.docx
+~$*

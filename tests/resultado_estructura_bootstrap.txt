@@ -1,0 +1,17 @@
+$ php tests/test_estructura_bootstrap.php
+[OK] Bootstrap CSS local incluido
+[OK] Bootstrap JS local incluido
+[OK] Licencia Bootstrap incluida
+[OK] CSS Bootstrap enlazado en plantilla
+[OK] JS Bootstrap enlazado en plantilla
+[OK] Meta viewport para móviles
+[OK] Offcanvas accesible con control de cierre
+[OK] Menú de escritorio visible en lg
+[OK] KPIs con rejilla Bootstrap
+[OK] Columnas responsive del CRUD
+[OK] Controles Bootstrap en productos
+[OK] Tablas adaptables en tres vistas
+[OK] Etiquetas de tarjeta móvil en productos
+[OK] Media queries para móvil
+
+Resultado: 14/14 comprobaciones satisfactorias.
